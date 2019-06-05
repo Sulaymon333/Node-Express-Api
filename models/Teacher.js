@@ -23,3 +23,5 @@ const teacherSchema = new Schema({
 });
 
 module.exports = Teacher = mongoose.model('teacher', teacherSchema); // to create teacher schema/ database to mongodb
+
+{name: 'Mango', }
