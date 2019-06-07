@@ -1,8 +1,8 @@
 {
-    "name": "express-app",
+    "name": "express-lesson",
     "version": "1.0.0",
-    "description": "",
     "main": "server.js",
+    "license": "MIT",
     "scripts": {
         "start": "node server.js"
     },
