@@ -7,4 +7,4 @@
 
 ## DEMO
 
-[LIVE](https://evening-sands-24077.herokuapp.com/)
+[LIVE](https://node-express-api-vs1.herokuapp.com/)
