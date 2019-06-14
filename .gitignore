@@ -1,4 +1,4 @@
 /node_modules
 .env
-/server2.js
-/server-no-routes.js
+server2.js
+server-no-routes.js
